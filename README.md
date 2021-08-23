@@ -10,7 +10,7 @@ You can find me on the following platforms
 
 * [🌎 Personal Website](https://www.chrisconnor.co.uk)
 * [👔 LinkedIn](https://www.linkedin.com/in/cjconnor24/)
-* [🐦 Twitter](https://www.twitter.com/cjconno24)
+* [🐦 Twitter](https://www.twitter.com/cjconnor24)
 * [📷 Instagram](https://www.instagram.com/chris_codes)
 
 <!--
