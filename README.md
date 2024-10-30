@@ -10,8 +10,6 @@ You can find me on the following platforms
 
 * [🌎 Personal Website](https://www.chrisconnor.co.uk)
 * [👔 LinkedIn](https://www.linkedin.com/in/cjconnor24/)
-* [🐦 Twitter](https://www.twitter.com/cjconnor24)
-* [📷 Instagram](https://www.instagram.com/chris_codes)
 
 <!--
 **cjconnor24/cjconnor24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
